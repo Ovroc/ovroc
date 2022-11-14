@@ -1,9 +1,10 @@
-### Olá eu sou o Guilherme Lopes, apaixonado por esportes e tecnologia.
+### Olá eu sou o Guilherme, apaixonado por esportes e tecnologia.
 ##
 <div>
   <a href="https://github.com/ovroc"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ovroc&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovroc&layout=compact&theme=dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ovroc&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovroc&layout=compact&theme=dark" />
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
@@ -16,6 +17,7 @@
 
 ##
 <div style="display: inline_block"><br>
-  <img align="center" alt="html" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/guilherme-lopes-almerito/"> 
+    <img align="center" alt="html" max-width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
-
